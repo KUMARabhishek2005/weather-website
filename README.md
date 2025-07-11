@@ -26,10 +26,7 @@ An interactive Weather Forecast Web App with a modern dark UI, built using **HTM
 
 **INTERFACE PREVIEW**
 
-![Interface Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/weather-app/main/images/interface.png)
-
- `images/interface.png` 
-
+![Interface Screenshot](interface.png)
 
 
 **DEVELOPED BY**
